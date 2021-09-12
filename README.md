@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-</details>
+</details> 
 
 [twitter]: https://twitter.com/emrahyenerr
 [linkedin]: https://www.linkedin.com/in/emrah-yener-ai-specialist/
