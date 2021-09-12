@@ -27,7 +27,11 @@
 
 ### Languages and Tools:
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<i class="devicon-visualstudio-plain colored"></i>
 
+<br />
+<br />
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />]
 
 <br />
