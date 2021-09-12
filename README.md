@@ -26,13 +26,27 @@
 <br />
 
 ### Languages and Tools:
+# Python
+# C#
+# C++
+# Visual Studio
+# PyCharm
+# Scikit Learn
+# TensorFlow
+# Anaconda
+# Keras
+# Unity
+# NLP
+# CNN / RNN
+# RBM/DBN
+# MsSQL
+# Google Colab
+# HTML
+# CSS
 
-<img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 
 <br />
-<br />
-
 
 [twitter]: https://twitter.com/emrahyenerr
 [linkedin]: https://www.linkedin.com/in/emrah-yener-ai-specialist/
