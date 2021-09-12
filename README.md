@@ -26,23 +26,7 @@
 <br />
 
 ### Languages and Tools:
-#### Python
-#### C#
-#### C++
-#### Visual Studio
-#### PyCharm
-#### Scikit Learn
-#### TensorFlow
-#### Anaconda
-#### Keras
-#### Unity
-#### NLP
-#### CNN / RNN
-#### RBM/DBN
-#### MsSQL
-#### Google Colab
-#### HTML
-#### CSS
+#### Python, C#, C++, Visual Studio, PyCharm, Scikit Learn, TensorFlow, Anaconda, Keras, Unity, NLP, CNN/RNN, RBM/DBN, MsSQL, Google Colab, HTML, CSS
 
 
 
