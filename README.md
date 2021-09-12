@@ -26,10 +26,10 @@
 <br />
 
 ### Languages and Tools:
-### Python
-### C#
-# C++
-## Visual Studio
+##### Python
+#### C#
+## C++
+# Visual Studio
 ## PyCharm
 ## Scikit Learn
 ## TensorFlow
