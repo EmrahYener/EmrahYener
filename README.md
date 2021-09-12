@@ -26,9 +26,9 @@
 <br />
 
 ### Languages and Tools:
-## Python
-## C#
-## C++
+### Python
+### C#
+# C++
 ## Visual Studio
 ## PyCharm
 ## Scikit Learn
